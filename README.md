@@ -8,7 +8,7 @@
 - 🎓 Computer Science student at LACC
 - 💡 Passionate about QA Automation & Web Development
 - 🔍 I build UI projects and test applications using modern tools
-- 🚀 Currently looking for internship / junior opportunities
+- 🚀 Currently looking for junior opportunities
 
 ---
 
